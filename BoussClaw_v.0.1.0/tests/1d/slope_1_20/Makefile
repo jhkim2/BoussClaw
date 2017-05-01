@@ -34,7 +34,7 @@ BOUSSLIB= ../../../src/1d
 
 MODULES = \
  $(GEOLIB)/utility_module.f90 \
- $(AMRLIB)/amr_module.f90 \
+ $(BOUSSLIB)/amr_module.f90 \
  $(AMRLIB)/regions_module.f90 \
  $(GEOLIB)/geoclaw_module.f90 \
  $(GEOLIB)/gauges_module.f90 \
